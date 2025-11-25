@@ -73,7 +73,7 @@ scrape_configs:
 
 ---
 
-## 🔌 Endpoints Principaux
+##  Endpoints Principaux
 
 | Endpoint | Description |
 |----------|-------------|
@@ -93,7 +93,8 @@ scrape_configs:
 
 ---
 
-##  Démonstrations
+##  Résultat :
+
 
 ### Application Spring Boot
 

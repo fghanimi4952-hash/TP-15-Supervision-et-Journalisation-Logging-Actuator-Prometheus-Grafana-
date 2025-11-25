@@ -94,7 +94,7 @@ scrape_configs:
 
 ---
 
-## 📊 Métriques Clés
+##  Métriques Clés
 
 - `tp15_requests_total` - Requêtes personnalisées
 - `http_server_requests_seconds_count` - Requêtes HTTP
@@ -103,7 +103,7 @@ scrape_configs:
 
 ---
 
-## 🎬 Démonstrations
+##  Démonstrations
 
 ### Application Spring Boot
 
@@ -153,7 +153,7 @@ scrape_configs:
 
 ---
 
-## 🛠️ Script de Test
+##  Script de Test
 
 ```powershell
 # Génération de trafic pour tester le monitoring
@@ -165,7 +165,7 @@ for ($i = 1; $i -le 10; $i++) {
 
 ---
 
-## 📝 Configuration Application
+## Configuration Application
 
 ### `application.properties`
 ```properties
@@ -178,7 +178,7 @@ logging.file.name=logs/tp15-application.log
 
 ---
 
-## ✅ Vérification
+##  Vérification
 
 ```powershell
 # Vérifier les services
@@ -189,4 +189,3 @@ Invoke-WebRequest -Uri "http://localhost:3000"
 
 ---
 
-**Version :** 1.0.0 | **Date :** 2024

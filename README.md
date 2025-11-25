@@ -99,7 +99,8 @@ scrape_configs:
 ##  Résultat :
 
 
-https://github.com/user-attachments/assets/783e9cea-8388-47d7-ad31-e8b56a259905
+<img width="477" height="682" alt="Capture d’écran 2025-11-25 à 20 58 59" src="https://github.com/user-attachments/assets/87a95e51-683d-4328-b3e5-b68278fe8cf7" />
+
 
 
 

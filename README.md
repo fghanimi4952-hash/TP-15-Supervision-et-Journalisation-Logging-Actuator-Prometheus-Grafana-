@@ -8,6 +8,7 @@ Mettre en place une stack complète de monitoring pour une application Spring Bo
 
 
 
+
 ##  Architecture
 
 ```
@@ -122,7 +123,7 @@ scrape_configs:
 #### Endpoint `/actuator/prometheus`
 **URL :** http://localhost:8080/actuator/prometheus
 
-![Prometheus Metrics](https://github.com/user-attachments/assets/c48493f3-3a78-458a-a07d-7c4aadc52494)
+<img width="743" height="508" alt="Capture d’écran 2025-11-25 à 20 30 03" src="https://github.com/user-attachments/assets/5f345a58-797e-4744-9c16-f46914b8ba68" />
 
 ### Interface Prometheus
 

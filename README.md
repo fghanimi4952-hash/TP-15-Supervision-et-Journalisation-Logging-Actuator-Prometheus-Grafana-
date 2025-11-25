@@ -6,6 +6,7 @@ Mettre en place une stack complète de monitoring pour une application Spring Bo
 
 ---
 
+
 ##  Architecture
 
 ```
@@ -107,7 +108,7 @@ scrape_configs:
 #### Endpoint `/process`
 **URL :** http://localhost:8080/process
 
-![Process Endpoint](https://github.com/user-attachments/assets/35ab006d-a9bc-4d52-8055-415ec62d0994)
+<img width="680" height="317" alt="Capture d’écran 2025-11-25 à 20 25 40" src="https://github.com/user-attachments/assets/620e3c4b-fa1f-42d1-a507-828f4e96c855" />
 
 ### Spring Boot Actuator
 

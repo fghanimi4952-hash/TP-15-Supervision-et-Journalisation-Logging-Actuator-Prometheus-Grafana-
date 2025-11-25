@@ -145,7 +145,10 @@ scrape_configs:
 
 **URL :** http://localhost:3000
 
-![Grafana Dashboard](https://github.com/user-attachments/assets/0e74007f-3440-4142-bedf-47fa433cf177)
+
+Uploading 511698255-0e74007f-3440-4142-bedf-47fa433cf177.mp4…
+
+
 
 ---
 

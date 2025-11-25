@@ -99,6 +99,10 @@ scrape_configs:
 ##  Résultat :
 
 
+https://github.com/user-attachments/assets/783e9cea-8388-47d7-ad31-e8b56a259905
+
+
+
 ### Application Spring Boot
 
 #### Endpoint `/health`

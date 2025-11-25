@@ -116,7 +116,8 @@ scrape_configs:
 #### Endpoint `/actuator/health`
 **URL :** http://localhost:8080/actuator/health
 
-![Actuator Health](https://github.com/user-attachments/assets/cf034881-0175-41fb-8607-d3e66904f738)
+<img width="680" height="346" alt="Capture d’écran 2025-11-25 à 20 27 08" src="https://github.com/user-attachments/assets/3db367d5-c10c-47a2-a2ef-ea53aa6ef2ee" />
+
 
 #### Endpoint `/actuator/prometheus`
 **URL :** http://localhost:8080/actuator/prometheus

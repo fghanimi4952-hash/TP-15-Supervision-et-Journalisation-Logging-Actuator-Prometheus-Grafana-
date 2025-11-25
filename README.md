@@ -1,6 +1,6 @@
 # TP15 - Monitoring Spring Boot avec Actuator, Prometheus et Grafana
 
-## 🎯Objectif
+## Objectif
 
 Mettre en place une stack complète de monitoring pour une application Spring Boot avec collecte, stockage et visualisation des métriques.
 

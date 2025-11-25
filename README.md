@@ -101,7 +101,8 @@ scrape_configs:
 #### Endpoint `/health`
 **URL :** http://localhost:8080/health
 
-![Health Endpoint](https://github.com/user-attachments/assets/20def021-e667-4372-badb-7737526e225f)
+<img width="680" height="317" alt="Capture d’écran 2025-11-25 à 20 24 27" src="https://github.com/user-attachments/assets/b7f44972-aeca-4b45-a59e-8cb21d3b4a14" />
+
 
 #### Endpoint `/process`
 **URL :** http://localhost:8080/process

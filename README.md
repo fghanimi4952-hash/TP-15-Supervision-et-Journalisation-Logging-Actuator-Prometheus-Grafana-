@@ -20,16 +20,6 @@ Application Spring Boot (8080)
    Grafana (3000) - Visualisation
 ```
 
----
-
-##  Prérequis
-
-- **Java 17+**
-- **Maven 3.6+**
-- **Prometheus** et **Grafana** (téléchargement séparé)
-- Ports disponibles : `8080`, `9090`, `3000`
-
----
 
 ##  Installation et Démarrage
 
